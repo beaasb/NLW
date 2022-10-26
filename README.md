@@ -6,7 +6,7 @@
 
 Projeto construído do evento Next Level Week da Rocketseat
 
-[🔗 Clique aqui para acessar](https://beaasb.github.io/NLW)
+_**Veja o resultado [clicando aqui](https://beaasb.github.io/NLW)**_
 
 ## 🛠 Tecnologias
 
