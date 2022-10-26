@@ -14,6 +14,6 @@ Projeto construído do evento Next Level Week da Rocketseat
 - CSS
 - Git e GitHub
 
-## 🤍Contato
+## ✉️ Contato
 
-biiahh.bb@gmail.com
+- biiahh.bb@gmail.com
